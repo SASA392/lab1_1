@@ -2,8 +2,8 @@ print("Hello World")
 
 d = 23
 y = 3.14
-vlad = "evelone"
-name = vlad
+sasha = "evelone"
+name = sasha
 h = True
 list = [1, 2, 3, 4]
 tuple = (1, 2, 3, 4)
